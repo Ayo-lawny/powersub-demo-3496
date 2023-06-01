@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "School is fun everyday" 
+<<<<<<< HEAD
+echo "School is fun everyday"
+>>>>>>> master
